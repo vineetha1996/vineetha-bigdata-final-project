@@ -1,4 +1,7 @@
-# Big Data Final Project - Pyspark Text Processing - Word count 
+# Final Project - Big Data
+
+# Pyspark Text Processing - Word count 
+
 ## Author:
 
 <td align="center"><a href="https://github.com/vineetha1996"><img src="https://avatars.githubusercontent.com/u/59989572?v=4" width="100px;" alt=""/><br /><sub><b>Vineetha Yenugula</b></sub></a><br /></td>
