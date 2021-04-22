@@ -3,8 +3,9 @@
 
 <td align="center"><a href="https://github.com/vineetha1996"><img src="https://avatars.githubusercontent.com/u/59989572?v=4" width="100px;" alt=""/><br /><sub><b>Vineetha Yenugula</b></sub></a><br /></td>
 
+## LinkedIn:
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
+[My LinkedIn Profile](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
 
 ## My Text data:
 
@@ -128,7 +129,7 @@ sns.barplot(xlabel, ylabel, data=df, palette="vlag").set_title(title)
 
 ### OutPut Image:
 
-
+![plot](https://github.com/vineetha1996/vineetha-bigdata-final-project/blob/main/Screenshot%202021-04-21%20221938.png)
 
 ### Word Cloud Generation:
 
@@ -185,7 +186,7 @@ wordcloud_generator.create_word_cloud(clean_data)
 
 ### Output Image:
 
-
+![wordCloud](https://github.com/vineetha1996/vineetha-bigdata-final-project/blob/main/wordCloud.png)
 
 ## References: 
 
